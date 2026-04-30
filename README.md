@@ -2,6 +2,8 @@
 
 This project creates a basic RISC CPU without standard optimizations (pipelining, speculative execution, etc.).
 
+*Disclaimer: This is a personal project. The views, code, and opinions expressed here are my own and do not represent those of my current or past employers.*
+
 ### Registers:
  * `A`
  * `B`
